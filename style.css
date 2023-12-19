@@ -1,0 +1,23 @@
+.myClass {
+    font-size: 48px;
+    font-family: "Whisper", serif;
+}
+.myClass2 {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+}
+.myClass3 {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+}
+.myClass4 {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+}
+.myClass5 {
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
